@@ -1,9 +1,9 @@
 # MyFlix
 
-With the team at MyFlix, we recently decided to migrate from a DVD rental business to an online platform
-where users can find movies to watch and add those to their wishlist 
+With the team at MyFlix, we recently decided to migrate from a DVD rental business to a mobile app with ads
+where users can find movies to watch and add those to their wishlist.
 
-We found you profile via your Github account and we think you are the most qualified to help.
+We found your profile via Github and we think you are the most qualified to help.
 
 We created wireframes of the final design for the mobile app.
 You can find hit here: https://www.figma.com/file/UoBHVt8Q4kuvYiUTCC8E9i/MyFlix?node-id=0%3A1&t=eGGLt5eJswRRSK2W-1
