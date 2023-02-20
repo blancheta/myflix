@@ -15,6 +15,8 @@ The mobile app should be able to interact with the backend for the following act
 - Login/Logout
 - Forgot password
 - Sign up + Send a welcoming email
+- Update my username or email
+- Delete my account
 - Search movies by language
 - Search a movie by title
 - Search movies by category
