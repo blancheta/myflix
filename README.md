@@ -7,6 +7,7 @@ We found your profile via Github and we think you are the most qualified to help
 
 We created wireframes of the final design for the mobile app.
 You can find hit here: https://www.figma.com/file/UoBHVt8Q4kuvYiUTCC8E9i/MyFlix?node-id=0%3A1&t=eGGLt5eJswRRSK2W-1
+To get information about movies you can use the https://www.themoviedb.org/ API
 
 ## Project features:
 
